@@ -1,2 +1,1 @@
-hello this my secound dose
-hello this one updated version.
+hello this my secound dose.
